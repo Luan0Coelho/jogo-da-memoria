@@ -11,6 +11,7 @@ const characters = [
     'sinuca',
     'uiux',
     'joao',
+    'lobo',
 ];
 
 
